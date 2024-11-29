@@ -38,17 +38,22 @@ The analysis will proceed through several stages:
 Data Collection:
 Parsing LeagueofGraphs profile data using web scraping techniques.
 Organizing data into a structured format for analysis.
+
 Data Cleaning:
 Removing duplicate or incomplete match records.
 Standardizing data formats (e.g., timestamps, champion names).
+
 Exploratory Data Analysis (EDA):
 Visualizing trends in WR across various dimensions (roles, champions, etc.).
 Calculating descriptive statistics for key variables.
+
 Modeling and Predictions:
 Using statistical methods or machine learning to predict WR based on selected features.
 Evaluating how factors such as role synergy and counter-picks influence outcomes.
+
 Insights and Recommendations:
 Presenting actionable findings to optimize gameplay strategies.
+
 Potential Additional Analyses
 
 Team Dynamics: How does WR vary with duo partners or premade teams?
@@ -56,6 +61,7 @@ Map Objectives: Is WR influenced by control over objectives (e.g., Baron, Dragon
 Skill Growth: Measuring WR improvement over time as a function of games played or specific training.
 Tilt Analysis: How does losing streaks impact WR and subsequent performances?
 Meta Shifts: Correlating WR trends with changes in the League meta (e.g., patch updates).
+
 Conclusion
 
 This project will combine the excitement of gaming with the rigor of data analysis, providing meaningful insights into how I (and potentially other players) can improve their League of Legends performance. Through systematic exploration of the data, I aim to create a framework that can be extended to other players looking to analyze their gameplay.
