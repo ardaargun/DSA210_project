@@ -15,10 +15,10 @@ League of Legends is a highly competitive online multiplayer game with millions 
 Using data structures and algorithms (DSA) as a foundation, I will analyze my gameplay patterns, identify trends, and uncover actionable insights. This analysis not only aims to enhance my own performance but also serves as a data-driven exploration that other players can replicate for their improvement.
 
 ## Project Motivation
-As a passionate League of Legends player, achieving a higher win rate (WR) is a critical goal for improving my performance in ranked games. This project aims to analyze gameplay data from my profile on LeagueofGraphs to identify trends, strengths, and areas of improvement. By leveraging DSA techniques, I intend to uncover insights that can lead to better decision-making during games.
+As a passionate League of Legends player, achieving a higher win rate (WR) is a critical goal for improving my performance in ranked games. This project aims to analyze gameplay data from my profile on LeagueofGraphs to identify trends, strengths, and areas of improvement. By leveraging DSA techniques, I intend to uncover tricks and issues that can lead to better decision-making during games.
 
 ## Data Source
-The data for this project is collected from [LeagueofGraphs](https://www.leagueofgraphs.com), a popular platform for analyzing League of Legends player statistics. This includes parsing personal profile data, such as:
+The data for this project is collected from [LeagueofGraphs](https://www.leagueofgraphs.com), a popular platform for analyzing League of Legends player statistics. That stores up to a matches that are a year older which can not be restored from the client of the game itself. This includes parsing personal profile data, such as:
 - Match histories
 - Role preferences
 - Champion performance
@@ -30,9 +30,8 @@ The data for this project is collected from [LeagueofGraphs](https://www.leagueo
    - **Champions** played?
    - **Side of the map** (Blue vs. Red)?
    - **Match duration** (short vs. long games)?
-2. Does WR improve with specific item builds or rune setups?
 3. How does WR differ between solo queue and flex queue?
-4. Are there any time-based patterns, such as performance varying by patch updates or time of day?
+4. Are there any time-based patterns, such as performance varying by patch updates or the game taking place after a win/lose (streak or single games as well) ?
 
 ## Data Analysis
 The analysis will proceed through several stages:
