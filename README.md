@@ -55,7 +55,7 @@ The analysis will proceed through several stages:
    - Presenting actionable findings to optimize gameplay strategies.
 
 ## Potential Additional Analyses
-- **Team Dynamics**: How does WR vary with duo partners or premade teams?
+- **Team Dynamics**: How does WR vary with single queues or premade teams?
 - **Map Objectives**: Is WR influenced by control over objectives (e.g., Baron, Dragon)?
 - **Skill Growth**: Measuring WR improvement over time as a function of games played or specific training.
 - **Tilt Analysis**: How does losing streaks impact WR and subsequent performances?
