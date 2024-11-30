@@ -65,7 +65,3 @@ The analysis will proceed through several stages:
 ## Conclusion
 This project will combine the excitement of gaming with the rigor of data analysis, providing meaningful insights into how I (and potentially other players) can improve their League of Legends performance. Through systematic exploration of the data, I aim to create a framework that can be extended to other players looking to analyze their gameplay.
 
-## Setup
-1. Clone this repository:
-   ```bash
-   git clone <repository-url>
