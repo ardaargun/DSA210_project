@@ -8,7 +8,7 @@
 - [Data Analysis](#data-analysis)
 - [Potential Additional Analyses](#potential-additional-analyses)
 - [Conclusion](#conclusion)
-- [Setup](#setup)
+- [Conclusion After the Project](#conclusion-after-the-project)
 
 ## Introduction
 League of Legends is a highly competitive online multiplayer game with millions of active players worldwide. To climb the ranked ladder and improve as a player, it’s essential to understand the factors influencing success in matches. This project leverages data from LeagueofGraphs to explore the relationships between gameplay variables and win rate (WR).  
