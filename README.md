@@ -25,13 +25,13 @@ The data for this project is collected from [LeagueofGraphs](https://www.leagueo
 - Win/loss records
 
 ## Research Questions
-1. How does win rate (WR) vary based on:
+How does win rate (WR) vary based on:
    - **Roles** (e.g., Top, Jungle, Mid, ADC, Support)?
    - **Champions** played?
-   - **Side of the map** (Blue vs. Red)?
+   - **KDA and KP**
    - **Match duration** (short vs. long games)?
-3. How does WR differ between solo queue and flex queue?
-4. Are there any time-based patterns, such as performance varying by patch updates or the game taking place after a win/lose (streak or single games as well) ?
+   - **...**
+ 
 
 ## Data Analysis
 The analysis will proceed through several stages:
