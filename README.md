@@ -64,3 +64,11 @@ The analysis will proceed through several stages:
 ## Conclusion
 This project will combine the excitement of gaming with the rigor of data analysis, providing meaningful insights into how I (and potentially other players) can improve their League of Legends performance. Through systematic exploration of the data, I aim to create a framework that can be extended to other players looking to analyze their gameplay.
 
+## Conclusion After the Project
+
+With this project, I was able to retrieve data from the website LeagueofGraphs for my own League of Legends account, covering matches from the past year. The aspects I chose for analysis were thoroughly examined using exploratory data analysis (EDA) and data visualization (DV) techniques. After the data analysis, a regression model was created to predict the expected win rate (WR) of future games using a logistic regression model.
+
+Any League of Legends account can be analyzed by downloading the HTML of the given account's information from the LeagueofGraphs site and providing it to the code sequence outlined in `DSA210_project.ipynb`. The detailed explanations of the steps involved in the project, including the EDA, DV results, and the regression model, can be accessed through the following drive link, where I walk through the entire process:
+
+
+
