@@ -68,7 +68,7 @@ This project will combine the excitement of gaming with the rigor of data analys
 
 With this project, I was able to retrieve data from the website LeagueofGraphs for my own League of Legends account, covering matches from the past year. The aspects I chose for analysis were thoroughly examined using exploratory data analysis (EDA) and data visualization (DV) techniques. After the data analysis, a regression model was created to predict the expected win rate (WR) of future games using a logistic regression model.
 
-Any League of Legends account can be analyzed by downloading the HTML of the given account's information from the LeagueofGraphs site and providing it to the code sequence outlined in `DSA210_project.ipynb`. The detailed explanations of the steps involved in the project, including the EDA, DV results, and the regression model, can be accessed through the following drive link, where I walk through the entire process:
+Any League of Legends account can be analyzed by downloading the HTML of the given account's information from the LeagueofGraphs site and providing it to the code sequence outlined in `DSA210_project.ipynb`. The detailed explanations of the steps involved in the project, including the EDA, DV results, and the regression model, can be accessed through the following drive link, where I walk through the entire process: https://drive.google.com/file/d/1J4RleprYMpgrkCA0B92PIHIdQpxdK7_u/view?usp=share_link
 
 
 
